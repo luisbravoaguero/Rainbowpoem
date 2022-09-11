@@ -6,6 +6,7 @@ Orange
 Pink
 Green
 Blue
+Indigo
 Yellow
 Brown
 Unicorn
